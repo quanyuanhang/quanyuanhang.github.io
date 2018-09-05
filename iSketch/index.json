@@ -1,12 +1,12 @@
 {
-  "last": "150",
+  "last": "149",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Apollo-1.5.0.zip",
-  "150": {
-    "version": "1.5.0",
+  "url": "https://quanyuanhang.github.io/iSketch/release/Apollo-1.4.9.zip",
+  "149": {
+    "version": "1.4.9",
     "feature": [
       "1.组件样式更新",
       "2.组件支持智能自适应（按钮、导航、顶部选项卡、弹窗、toast、协议、结果页、小引导等）",

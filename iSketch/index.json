@@ -1,8 +1,9 @@
 {
   "last": "149",
-  "needCheckVerison": "0",
+  "needCheckVerison": "1",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
+    "2.0.0"
   ],
   "url": "https://quanyuanhang.github.io/iSketch/release/Apollo-1.4.9.zip",
   "149": {

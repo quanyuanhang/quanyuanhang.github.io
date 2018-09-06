@@ -1,24 +1,21 @@
 {
-  "last": "149",
+  "last": "200",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://quanyuanhang.github.io/iSketch/release/Apollo-1.4.9.zip",
-  "149": {
-    "version": "1.4.9",
+  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Apollo-2.0.0.zip",
+  "200": {
+    "version": "2.0.0",
     "feature": [
-      "1.组件样式更新",
-      "2.组件支持智能自适应（按钮、导航、顶部选项卡、弹窗、toast、协议、结果页、小引导等）",
-      "3.支持多行列表",
-      "4.组件图片支持iconfont导入",
-      "5.插件自动打开",
+      "1.新增素材库",
+      "2.新增模板库",
+      "3.新增色彩库",
+      "4.组件库样式及分类更新，新增控件",
+      "5.新增页面组件代码导出",
+      "6.支持代码同步至小程序开发工具IDE"
     ],
     "bugfix": [
-      "6.修复多行列表右侧组件找不到问题",
-      "7.修复多行列表统一开关不变化问题",
-      "8.修复部分列表描述不可修改问题",
-      "9.修复iconfont导入组件图片模糊问题",
     ]
   }
 }

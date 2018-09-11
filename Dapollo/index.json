@@ -1,9 +1,8 @@
 {
   "last": "201",
-  "needCheckVerison": "1",
+  "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
-    "2.0.1"
   ],
   "url": "https://quanyuanhang.github.io/Dapollo/release/Apollo-2.0.1.zip",
   "201": {

@@ -1,19 +1,14 @@
 {
-  "last": "203",
+  "last": "201",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Apollo-2.0.0.zip",
-  "203": {
-    "version": "2.0.3",
+  "url": "https://quanyuanhang.github.io/Dapollo/release/Apollo-2.0.1.zip",
+  "201": {
+    "version": "2.0.1",
     "feature": [
-      "1.新增素材库",
-      "2.新增模板库",
-      "3.新增色彩库",
-      "4.组件库样式及分类更新，新增控件",
-      "5.新增页面组件代码导出",
-      "6.支持代码同步至小程序开发工具IDE"
+
     ],
     "bugfix": [
     ]

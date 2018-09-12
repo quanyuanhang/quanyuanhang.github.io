@@ -1,21 +1,20 @@
 {
-  "last": "200",
+  "last": "202",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Apollo-2.0.0.zip",
-  "200": {
-    "version": "2.0.0",
+  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.2.zip",
+  "202": {
+    "version": "2.0.2",
     "feature": [
-      "1.新增素材库",
-      "2.新增模板库",
-      "3.新增色彩库",
-      "4.组件库样式及分类更新，新增控件",
-      "5.新增页面组件代码导出",
-      "6.支持代码同步至小程序开发工具IDE"
     ],
     "bugfix": [
+      "1.兼容性 macOS>=10.11.6 sketch>=48",
+      "2.修复素材库拖入链接问题",
+      "3.修复iconfont面板卡顿问题",
+      "4.修复色彩库填充失效的问题",
+      "5.crash保护"
     ]
   }
 }

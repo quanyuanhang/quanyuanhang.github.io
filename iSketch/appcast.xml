@@ -5,8 +5,8 @@
         <link>https://quanyuanhang.github.io/iSketch/appcast</link>
         <description>qyh</description>
          <item>
-            <title>2.0.0</title>
-            <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Apollo-2.0.0.zip" sparkle:version="2.0.0" type="application/octet-stream"/>
+            <title>2.0.2</title>
+            <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.2.zip" sparkle:version="2.0.2" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

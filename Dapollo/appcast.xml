@@ -4,9 +4,6 @@
         <title>Dapollo</title>
         <link>https://quanyuanhang.github.io/Dapollo/appcast</link>
         <description>qyh</description>
-         <item>
-            <title>2.0.1</title>
-            <enclosure url="https://quanyuanhang.github.io/Dapollo/release/Apollo-2.0.1.zip" sparkle:version="2.0.1" type="application/octet-stream"/>
-        </item>
+
     </channel>
 </rss>

@@ -4,18 +4,20 @@
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.2.zip",
+  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.4.zip",
   "204": {
     "version": "2.0.4",
     "feature": [
-      "1.Apollo更名为Dapollo",
-      "2.兼容性支持 macOS>=10.11.6 sketch>=48",
+      "1.mini-antui组件代码3.5.0更新至3.6.0",
+      "2.组件库、模版库更新 修正不规范尺寸问题",
+      "3.iconfont搜索结果放开限制"
     ],
     "bugfix": [
-      "3.修复素材库拖入链接问题",
-      "4.修复iconfont面板卡顿问题",
-      "5.修复色彩库填充失效的问题",
-      "6.crash保护"
+      "4.修复部分macOS系统插件启动问题",
+      "5.修复macOS10.14beta的兼容性问题",
+      "6.修复代码弹窗弹不出问题",
+      "7.修复色彩库渐进色填充和描边不可用问题",
+      "8.性能优化以及其它bug问题修复"
     ]
   }
 }

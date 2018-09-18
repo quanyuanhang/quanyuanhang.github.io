@@ -4,6 +4,10 @@
         <title>Dapollo</title>
         <link>https://quanyuanhang.github.io/Dapollo/appcast</link>
         <description>qyh</description>
+        <item>
+            <title>2.0.3</title>
+            <enclosure url="https://quanyuanhang.github.io/Dapollo/release/Dapollo-2.0.3.zip" sparkle:version="2.0.3" type="application/octet-stream"/>
+        </item>
 
     </channel>
 </rss>

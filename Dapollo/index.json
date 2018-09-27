@@ -1,23 +1,23 @@
 {
-  "last": "203",
+  "last": "205",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/rmsportal/CNAKQxOCledYqEFwqENT.zip",
-  "203": {
-    "version": "2.0.3",
+  "url": "https://gw.alipayobjects.com/os/rmsportal/fJCOyIDSnvxpuLvtqMiD.zip",
+  "205": {
+    "version": "2.0.5",
     "feature": [
-      "1.mini-antui组件代码3.5.0更新至3.6.0",
-      "2.组件库、模版库更新 修正不规范尺寸问题",
-      "3.iconfont搜索结果放开限制"
+      "1.模版库更新"
     ],
     "bugfix": [
-      "4.修复部分macOS系统插件启动问题",
-      "5.修复macOS10.14beta的兼容性问题",
-      "6.修复代码弹窗弹不出问题",
-      "7.修复色彩库渐进色填充和描边不可用问题",
-      "8.性能优化以及其它bug问题修复"
+      "2.修复macOS 10.14系统插件启动问题",
+      "3.修复sketch52 beta深色模式UI bug",
+      "4.修复sketch52 beta部分兼容性问题",
+      "5.修复macOS 10.12系统模版库打开空白问题",
+      "6.修复色彩库打不开问题",
+      "7.修复iconfont搜索后空白问题",
+      "8.Toast、按钮组件bug修复"
     ]
   }
 }

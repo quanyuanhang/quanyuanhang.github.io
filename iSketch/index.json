@@ -1,23 +1,18 @@
 {
-  "last": "206",
+  "last": "208",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.6.zip",
-  "206": {
-    "version": "2.0.6",
+  "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.8.zip",
+  "208": {
+    "version": "2.0.8",
     "feature": [
-      "1.模版库更新"
+      "1.组件库更新"
     ],
     "bugfix": [
-      "2.修复macOS 10.14系统插件启动问题",
-      "3.修复sketch52 beta深色模式UI bug",
-      "4.修复sketch52 beta部分兼容性问题",
-      "5.修复macOS 10.12系统模版库打开空白问题",
-      "6.修复色彩库打不开问题",
-      "7.修复iconfont搜索后空白问题",
-      "8.Toast、按钮组件bug修复"
+      "2.修复 Sketch52 与其它插件共存时 关闭文档闪退问题",
+      "3.其它兼容性问题修复"
     ]
   }
 }

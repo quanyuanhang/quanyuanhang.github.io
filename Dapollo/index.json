@@ -1,23 +1,18 @@
 {
-  "last": "205",
+  "last": "207",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/rmsportal/fJCOyIDSnvxpuLvtqMiD.zip",
-  "205": {
-    "version": "2.0.5",
+  "url": "https://gw.alipayobjects.com/os/rmsportal/fnKGRSTwNZYFxfiDSUsA.zip",
+  "207": {
+    "version": "2.0.7",
     "feature": [
-      "1.模版库更新"
+      "1.组件库更新"
     ],
     "bugfix": [
-      "2.修复macOS 10.14系统插件启动问题",
-      "3.修复sketch52 beta深色模式UI bug",
-      "4.修复sketch52 beta部分兼容性问题",
-      "5.修复macOS 10.12系统模版库打开空白问题",
-      "6.修复色彩库打不开问题",
-      "7.修复iconfont搜索后空白问题",
-      "8.Toast、按钮组件bug修复"
+      "2.修复 Sketch52 与其它插件共存时 关闭文档闪退问题",
+      "3.其它兼容性问题修复"
     ]
   }
 }

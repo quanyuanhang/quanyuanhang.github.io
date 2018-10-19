@@ -4,6 +4,10 @@
         <title>iSketch</title>
         <link>https://quanyuanhang.github.io/iSketch/appcast</link>
         <description>qyh</description>
+         <item>
+            <title>2.0.8</title>
+            <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.8.zip" sparkle:version="2.0.8" type="application/octet-stream"/>
+        </item>
         <item>
             <title>2.0.6</title>
             <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.6.zip" sparkle:version="2.0.6" type="application/octet-stream"/>

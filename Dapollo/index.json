@@ -1,17 +1,17 @@
 {
-  "last": "207",
+  "last": "209",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/rmsportal/fnKGRSTwNZYFxfiDSUsA.zip",
-  "207": {
-    "version": "2.0.7",
+  "url": "https://gw.alipayobjects.com/os/rmsportal/ouVJjqksXAXBiChbwhbi.zip",
+  "209": {
+    "version": "2.0.9",
     "feature": [
-      "1.组件库更新"
+      "1.组件库、模版库、图标库支持1x、2x"
     ],
     "bugfix": [
-      "2.修复 Sketch52 与其它插件共存时 关闭文档闪退问题",
+      "2.Sketch52 属性面板bug修复",
       "3.其它兼容性问题修复"
     ]
   }

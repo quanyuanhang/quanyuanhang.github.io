@@ -6,12 +6,12 @@
   ],
   "url": "https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.8.zip",
   "208": {
-    "version": "2.0.8",
+    "version": "2.0.9",
     "feature": [
-      "1.组件库更新"
+      "1.组件库、模版库、图标库支持1x、2x"
     ],
     "bugfix": [
-      "2.修复 Sketch52 与其它插件共存时 关闭文档闪退问题",
+      "2.Sketch52 属性面板bug修复",
       "3.其它兼容性问题修复"
     ]
   }

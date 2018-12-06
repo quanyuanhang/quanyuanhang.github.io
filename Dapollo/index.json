@@ -1,18 +1,23 @@
 {
-  "last": "209",
+  "last": "2011",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/rmsportal/kovfCyfXsboapiRZhwNh.zip",
-  "209": {
-    "version": "2.0.9",
+  "url": "https://gw.alipayobjects.com/os/basement_prod/8564c5a2-2973-48ce-9faa-f48e20816c87.zip",
+  "2011": {
+    "version": "2.0.11",
     "feature": [
-      "1.组件库、模版库、图标库支持1x、2x"
+      "1.sketch52 dark mode适配"
     ],
     "bugfix": [
-      "2.Sketch52 属性面板bug修复",
-      "3.其它兼容性问题修复"
+      "2.macOS 10.12 模版库闪退修复",
+      "3.1x模式下 列表多行变为2x问题修复",
+      "4.sketch 52 组件属性面板保留原生导出等功能",
+      "5.sketch 52 文本属性编辑不生效问题修复",
+      "6.sketch 52 属性面板闪退问题修复",
+      "7.按钮类组件自适应问题修复",
+      "8.其他兼容性问题修复"
     ]
   }
 }

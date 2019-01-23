@@ -4,6 +4,10 @@
         <title>iSketch</title>
         <link>https://quanyuanhang.github.io/iSketch/appcast</link>
         <description>qyh</description>
+        <item>
+            <title>2.0.12</title>
+            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/595d06c9-31cf-4a35-abf2-cfa6505bd2bc.zip" sparkle:version="2.0.12" type="application/octet-stream"/>
+        </item>
          <item>
             <title>2.0.10</title>
             <enclosure url="https://gw-office.alipayobjects.com/basement_prod/82bf0407-a543-4f93-9370-ddd613e4869f.zip" sparkle:version="2.0.10" type="application/octet-stream"/>

@@ -1,23 +1,16 @@
 {
-  "last": "2010",
+  "last": "2012",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/82bf0407-a543-4f93-9370-ddd613e4869f.zipp",
-  "2010": {
-    "version": "2.0.10",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/595d06c9-31cf-4a35-abf2-cfa6505bd2bc.zip",
+  "2012": {
+    "version": "2.0.12",
     "feature": [
-      "1.sketch52 dark mode适配"
     ],
     "bugfix": [
-      "2.macOS 10.12 模版库闪退修复",
-      "3.1x模式下 列表多行变为2x问题修复",
-      "4.sketch 52 组件属性面板保留原生导出等功能",
-      "5.sketch 52 文本属性编辑不生效问题修复",
-      "6.sketch 52 属性面板闪退问题修复",
-      "7.按钮类组件自适应问题修复",
-      "8.其他兼容性问题修复"
+      "1.icontfont网站https升级配合改造 修复目前图标库不可用问题"
     ]
   }
 }

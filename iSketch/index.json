@@ -1,12 +1,12 @@
 {
-  "last": "2012",
+  "last": "2014",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/a84f44a6-5f3f-46b6-8fa4-63d87b75f197.zip",
-  "2012": {
-    "version": "2.0.12",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/cd2125a3-abc4-498e-a637-66f0524581b4.zip",
+  "2014": {
+    "version": "2.0.14",
     "feature": [
     ],
     "bugfix": [

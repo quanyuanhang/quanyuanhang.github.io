@@ -1,16 +1,16 @@
 {
-  "last": "2013",
+  "last": "2015",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/basement_prod/c3973227-aaba-4d04-8b51-7238fe34bbc5.zip",
-  "2013": {
-    "version": "2.0.13",
+  "url": "https://gw.alipayobjects.com/os/basement_prod/ab747c37-f412-4ca3-99f3-01bd0711dfbf.zip",
+  "2015": {
+    "version": "2.0.15",
     "feature": [
     ],
     "bugfix": [
-      "1.icontfont网站https升级配合改造 修复目前图标库不可用问题"
+      "1.修复加载失败问题"
     ]
   }
 }

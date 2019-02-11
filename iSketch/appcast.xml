@@ -5,28 +5,8 @@
         <link>https://quanyuanhang.github.io/iSketch/appcast</link>
         <description>qyh</description>
         <item>
-            <title>2.0.14</title>
-            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/cd2125a3-abc4-498e-a637-66f0524581b4.zip" sparkle:version="2.0.14" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.12</title>
-            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/a84f44a6-5f3f-46b6-8fa4-63d87b75f197.zip" sparkle:version="2.0.12" type="application/octet-stream"/>
-        </item>
-         <item>
-            <title>2.0.10</title>
-            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/82bf0407-a543-4f93-9370-ddd613e4869f.zip" sparkle:version="2.0.10" type="application/octet-stream"/>
-        </item>
-         <item>
-            <title>2.0.8</title>
-            <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.8.zip" sparkle:version="2.0.8" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.6</title>
-            <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.6.zip" sparkle:version="2.0.6" type="application/octet-stream"/>
-        </item>
-         <item>
-            <title>2.0.4</title>
-            <enclosure url="https://render.prefromoffice.alipay.net/p/u/i_rmsportal_15501_Dapollo-2.0.4.zip" sparkle:version="2.0.4" type="application/octet-stream"/>
+            <title>2.1.02</title>
+            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/8949cb20-9b53-41d0-9942-412cff0c1f99.zip" sparkle:version="2.1.02" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

@@ -1,16 +1,22 @@
 {
-  "last": "2014",
+  "last": "2102",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/cd2125a3-abc4-498e-a637-66f0524581b4.zip",
-  "2014": {
-    "version": "2.0.14",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/8949cb20-9b53-41d0-9942-412cff0c1f99.zip",
+  "2102": {
+    "version": "2.1.02",
     "feature": [
+      "1.组件库功能升级：支持自定义——可以导入、更新、删除本地组件库",
+      "2.色彩库功能升级：支持自定义——可以导入、更新、删除本地色彩库",
+      "3.图标库搜索支持分页加载",
+      "4.色彩库UI升级：native重构 优化体验",
+      "5.模版库UI升级：分类优化"
     ],
     "bugfix": [
-      "1.icontfont网站https升级配合改造 修复目前图标库不可用问题"
+      "6.修复素材库拖入sketch产生变形的问题",
+      "7.修复弱网情况下产生的一系列问题"
     ]
   }
 }

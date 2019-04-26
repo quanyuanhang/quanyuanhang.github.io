@@ -1,22 +1,16 @@
 {
-  "last": "2101",
+  "last": "2103",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/basement_prod/2e6706bb-a4c3-4f34-80c8-553dec33dc93.zip",
-  "2101": {
-    "version": "2.1.01",
+  "url": "https://gw.alipayobjects.com/os/basement_prod/1a794e63-eaa6-413b-890a-43cae5f8a813.zip",
+  "2103": {
+    "version": "2.1.03",
     "feature": [
-      "1.组件库功能升级：支持自定义——可以导入、更新、删除本地组件库",
-      "2.色彩库功能升级：支持自定义——可以导入、更新、删除本地色彩库",
-      "3.图标库搜索支持分页加载",
-      "4.色彩库UI升级：native重构 优化体验",
-      "5.模版库UI升级：分类优化"
     ],
     "bugfix": [
-      "6.修复素材库拖入sketch产生变形的问题",
-      "7.修复弱网情况下产生的一系列问题"
+      "1.修复插件无法打开问题"
     ]
   }
 }

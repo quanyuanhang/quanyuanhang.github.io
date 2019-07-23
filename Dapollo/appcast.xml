@@ -5,41 +5,8 @@
         <link>https://quanyuanhang.github.io/Dapollo/appcast</link>
         <description>qyh</description>
          <item>
-            <title>2.1.03</title>
-            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/1a794e63-eaa6-413b-890a-43cae5f8a813.zip" sparkle:version="2.1.03" type="application/octet-stream"/>
+            <title>2.1.05</title>
+            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/48470093-2bd6-429c-8ef0-c42e8f938b20.zip" sparkle:version="2.1.05" type="application/octet-stream"/>
         </item>
-         <item>
-            <title>2.1.01</title>
-            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/2e6706bb-a4c3-4f34-80c8-553dec33dc93.zip" sparkle:version="2.1.01" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.15</title>
-            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/ab747c37-f412-4ca3-99f3-01bd0711dfbf.zip" sparkle:version="2.0.15" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.13</title>
-            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/c3973227-aaba-4d04-8b51-7238fe34bbc5.zip" sparkle:version="2.0.13" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.11</title>
-            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/8564c5a2-2973-48ce-9faa-f48e20816c87.zip" sparkle:version="2.0.11" type="application/octet-stream"/>
-        </item>
-         <item>
-            <title>2.0.9</title>
-            <enclosure url="https://gw.alipayobjects.com/os/rmsportal/kovfCyfXsboapiRZhwNh.zip" sparkle:version="2.0.9" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.7</title>
-            <enclosure url="https://gw.alipayobjects.com/os/rmsportal/fnKGRSTwNZYFxfiDSUsA.zip" sparkle:version="2.0.7" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.5</title>
-            <enclosure url="https://gw.alipayobjects.com/os/rmsportal/fJCOyIDSnvxpuLvtqMiD.zip" sparkle:version="2.0.5" type="application/octet-stream"/>
-        </item>
-        <item>
-            <title>2.0.3</title>
-            <enclosure url="https://gw.alipayobjects.com/os/rmsportal/CNAKQxOCledYqEFwqENT.zip" sparkle:version="2.0.3" type="application/octet-stream"/>
-        </item>
-
     </channel>
 </rss>

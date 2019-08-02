@@ -1,22 +1,19 @@
 {
-  "last": "2105",
+  "last": "2107",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/basement_prod/48470093-2bd6-429c-8ef0-c42e8f938b20.zip",
-  "2105": {
-    "version": "2.1.05",
+  "url": "https://gw.alipayobjects.com/os/basement_prod/1e7bc373-ff53-4906-baf5-37ca56ff75d5.zip",
+  "2107": {
+    "version": "2.1.07",
     "feature": [
-      "1.自定义组件库支持多级分类、属性配置",
-      "2.新增犸良动效平台入口",
-      "3.互动入口升级",
-      "4.体验优化"
+      "1.支持自由图层导出小程序代码"
     ],
     "bugfix": [
-      "5.修复了 54 版本色彩库添加颜色导致闪退的问题",
-      "6.修复了添加颜色改变了宽度的问题",
-      "7.修复了模板库某些情况下空白的问题"
+      "2.修复和 18N 汉化插件冲突的 Bug",
+      "3.修复部分情况下右侧属性面板不刷新的bug",
+      "4.其他bug修复"
     ]
   }
 }

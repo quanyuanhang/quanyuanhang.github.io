@@ -1,18 +1,16 @@
 {
-  "last": "2108",
+  "last": "2110",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/e14e020a-19a6-4b13-a066-d3868badcc4f.zip",
-  "2108": {
-    "version": "2.1.08",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/984d8b5c-5422-4429-a7bd-d59031e1c2f1.zip",
+  "2110": {
+    "version": "2.1.10",
     "feature": [
     ],
     "bugfix": [
-      "1.自由图层导出代码优化",
-      "2.52版本以上 textStyle OverPoint.兼容性问题处理",
-      "3.右侧属性面板高度优化"
+      "1.修复网络环境判断问题"
     ]
   }
 }

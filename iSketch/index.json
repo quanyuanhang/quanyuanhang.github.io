@@ -1,17 +1,19 @@
 {
-  "last": "2112",
+  "last": "3000",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw-office.alipayobjects.com/basement_prod/51d70492-8c56-4850-bdb1-eea0e0b74716.zip",
-  "2112": {
-    "version": "2.1.12",
+  "url": "https://gw-office.alipayobjects.com/basement_prod/3b99fd21-11d4-4246-a5cb-57514a9cc70c.zip",
+  "3000": {
+    "version": "3.0.0",
     "feature": [
-      "1.适配组件库命名规范 3.0"
+      "1. 组件库云协同 — 与集团ICS合作，支持组件库云端同步",
+      "2. 新基础组件库 — 全新的支付宝2020设计语言。36个组件，185种样式，420种状态",
+      "3. 智能布局 — 支持了SmartLayout功能（需升级至Sketch58+版本）"
     ],
     "bugfix": [
-      "2.优化右侧属性面板"
+      "4. 修复了编辑颜色时颜色面板和获取到的颜色不一致的bug"
     ]
   }
 }

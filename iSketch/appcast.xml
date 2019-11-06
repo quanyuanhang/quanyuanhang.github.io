@@ -5,8 +5,8 @@
         <link>https://quanyuanhang.github.io/iSketch/appcast</link>
         <description>qyh</description>
         <item>
-            <title>3.0.02</title>
-            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/37b01902-2d67-46ef-9992-76b484814fa8.zip" sparkle:version="3.0.02" type="application/octet-stream"/>
+            <title>3.0.0</title>
+            <enclosure url="https://gw-office.alipayobjects.com/basement_prod/3b99fd21-11d4-4246-a5cb-57514a9cc70c.zip" sparkle:version="3.0.0" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

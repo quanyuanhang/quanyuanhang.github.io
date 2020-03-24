@@ -5,8 +5,9 @@
         <link>https://quanyuanhang.github.io/Dapollo/appcast</link>
         <description>qyh</description>
          <item>
-            <title>2.1.07</title>
-            <enclosure url="https://gw.alipayobjects.com/os/basement_prod/1e7bc373-ff53-4906-baf5-37ca56ff75d5.zip" sparkle:version="2.1.07" type="application/octet-stream"/>
+            <title>3.2.07</title>
+            <enclosure url="https://gw.alipayobjects.com/os/bmw-prod/fc6e0091-3d69-40f2-b80b-3505af8fccbb.zip" sparkle:version="3.2.07" type="application/octet-stream"/>
+        </item>
         </item>
     </channel>
 </rss>

@@ -1,37 +1,16 @@
 {
-  "last": "3207",
+  "last": "3211",
   "needCheckVerison": "0",
   "needCheckNetWorkType": "0",
   "checkVerisons": [
   ],
-  "url": "https://gw.alipayobjects.com/os/bmw-prod/fc6e0091-3d69-40f2-b80b-3505af8fccbb.zip",
-  "3207": {
-    "version": "3.2.07",
+  "url": "https://gw.alipayobjects.com/os/bmw-prod/be884f40-8d2f-4953-a01b-9fc96b60a2a7.zip",
+  "3211": {
+    "version": "3.2.11",
     "feature": [],
     "bugfix": [
-      "1. 优化右侧面板的展示",
-      "2. 修复个别组件右侧展示错误的问题"
-    ]
-  },
-  "3205": {
-    "version": "3.2.05",
-    "feature": [
-      "Dapollo 3.2版本来了！淘宝及千牛小程序物料入驻，更有支付宝套件全新升级！",
-      "⚠️⚠️注意⚠️⚠️  已不再继续提供@1x尺寸的组件和模板，同时也不再支持Sketch57及以下版本，请大家升级至新版本sketch后使用",
-      "1. 支持了多套件切换，淘宝及千牛物料已入驻Dapollo，更多的阿里小程序资源也正在路上哦~",
-      "2. 支付宝设计资源全面升级为2020版新样式。同时扩充至40+组件，600+状态，全面支持SmartLayout，设计时更加方便",
-      "3. 组件库体验优化，可视化展示+多tab切换，查找组件更快了"
-    ]
-  },
-  "2107": {
-    "version": "2.1.07",
-    "feature": [
-      "1.支持自由图层导出小程序代码"
-    ],
-    "bugfix": [
-      "2.修复和 18N 汉化插件冲突的 Bug",
-      "3.修复部分情况下右侧属性面板不刷新的bug",
-      "4.其他bug修复"
+      "1. 修复低版本上无法显示图标的问题",
+      "2. 修复主题切换时 UI 错位的问题"
     ]
   }
 }
